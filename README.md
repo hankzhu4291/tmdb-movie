@@ -19,3 +19,7 @@ Exploratory data analysis on TMBD movie data
 2. Transformed some features like 'genre' which have multiple values for single record into single value per record
 3. Conducted visualization to explore data
 
+## Limitations
+1. When dealing with missing data, about 2000 rows of data are removed, which may lose some information
+2. some other features may be helpful such as the the information about the main actors (the number of likes in Tweeter)
+3. for the company feature, there are some different names for same company, which may make information not captured very accurately. for example, '20th Century Fox Film company','Twentieth Century Fox Film company', and '20th Century Fox' etc.
